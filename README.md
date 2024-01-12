@@ -1,5 +1,5 @@
 # IntegrateAndFire
-Code for rate and densities for the leaky and exponential integrate-and-fire neurons
+Julia code for rate and densities for the leaky and exponential integrate-and-fire neurons
 
 Version date: 12/01/2024 using Julia 1.9
 Provides rates and probability densities for the LIF and EIF models and includes steady state and current (mu) modulation.
