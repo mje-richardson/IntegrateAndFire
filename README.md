@@ -7,4 +7,5 @@ For the LIF: tau×dvdt=mu - v + 2×sig×sqrt(tau)×xi(t)
 For the EIF: tau×dvdt=mu - v + dT×exp((v-vT)/dT) + 2×sig×sqrt(tau)×xi(t)  
 where xi(t) is gaussian white noise with unit amplitude Dirac-delta autocov.  
 
-Note: the code uses a 2nd-order exponential scheme tgat generalises the algorithms in Richardson MJE. Phys Rev E 76 021919 (2007)
+Note: the code uses a second-order exponential scheme that generalises the algorithms in  
+Richardson MJE. Phys Rev E 76 021919 (2007)
